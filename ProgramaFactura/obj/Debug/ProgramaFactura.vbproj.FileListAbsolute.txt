@@ -1,0 +1,84 @@
+C:\Users\Beto\source\repos\ProgramaFactura\ProgramaFactura\bin\Debug\ProgramaFactura.exe.config
+C:\Users\Beto\source\repos\ProgramaFactura\ProgramaFactura\bin\Debug\ProgramaFactura.exe
+C:\Users\Beto\source\repos\ProgramaFactura\ProgramaFactura\bin\Debug\ProgramaFactura.pdb
+C:\Users\Beto\source\repos\ProgramaFactura\ProgramaFactura\bin\Debug\ProgramaFactura.xml
+C:\Users\Beto\source\repos\ProgramaFactura\ProgramaFactura\obj\Debug\ProgramaFactura.vbprojAssemblyReference.cache
+C:\Users\Beto\source\repos\ProgramaFactura\ProgramaFactura\obj\Debug\ProgramaFactura.Form1.resources
+C:\Users\Beto\source\repos\ProgramaFactura\ProgramaFactura\obj\Debug\ProgramaFactura.Resources.resources
+C:\Users\Beto\source\repos\ProgramaFactura\ProgramaFactura\obj\Debug\ProgramaFactura.vbproj.GenerateResource.cache
+C:\Users\Beto\source\repos\ProgramaFactura\ProgramaFactura\obj\Debug\ProgramaFactura.vbproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\ProgramaFactura\ProgramaFactura\obj\Debug\ProgramaFactura.exe
+C:\Users\Beto\source\repos\ProgramaFactura\ProgramaFactura\obj\Debug\ProgramaFactura.xml
+C:\Users\Beto\source\repos\ProgramaFactura\ProgramaFactura\obj\Debug\ProgramaFactura.pdb
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P\ProgramaFactura\bin\Debug\ProgramaFactura.exe.config
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P\ProgramaFactura\bin\Debug\ProgramaFactura.exe
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P\ProgramaFactura\bin\Debug\ProgramaFactura.pdb
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P\ProgramaFactura\bin\Debug\ProgramaFactura.xml
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P\ProgramaFactura\obj\Debug\ProgramaFactura.vbprojAssemblyReference.cache
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P\ProgramaFactura\obj\Debug\ProgramaFactura.Form1.resources
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P\ProgramaFactura\obj\Debug\ProgramaFactura.Resources.resources
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P\ProgramaFactura\obj\Debug\ProgramaFactura.vbproj.GenerateResource.cache
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P\ProgramaFactura\obj\Debug\ProgramaFactura.vbproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P\ProgramaFactura\obj\Debug\ProgramaFactura.exe
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P\ProgramaFactura\obj\Debug\ProgramaFactura.xml
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P\ProgramaFactura\obj\Debug\ProgramaFactura.pdb
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P_dtgv\ProgramaFactura\bin\Debug\ProgramaFactura.exe.config
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P_dtgv\ProgramaFactura\bin\Debug\ProgramaFactura.exe
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P_dtgv\ProgramaFactura\bin\Debug\ProgramaFactura.pdb
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P_dtgv\ProgramaFactura\bin\Debug\ProgramaFactura.xml
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P_dtgv\ProgramaFactura\obj\Debug\ProgramaFactura.vbprojAssemblyReference.cache
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P_dtgv\ProgramaFactura\obj\Debug\ProgramaFactura.Form1.resources
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P_dtgv\ProgramaFactura\obj\Debug\ProgramaFactura.Resources.resources
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P_dtgv\ProgramaFactura\obj\Debug\ProgramaFactura.vbproj.GenerateResource.cache
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P_dtgv\ProgramaFactura\obj\Debug\ProgramaFactura.vbproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P_dtgv\ProgramaFactura\obj\Debug\ProgramaFactura.exe
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P_dtgv\ProgramaFactura\obj\Debug\ProgramaFactura.xml
+C:\Users\Beto\source\repos\Factura_CGRAFICO_5P_dtgv\ProgramaFactura\obj\Debug\ProgramaFactura.pdb
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\obj\Debug\ProgramaFactura.vbprojAssemblyReference.cache
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\obj\Debug\ProgramaFactura.Resources.resources
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\obj\Debug\ProgramaFactura.vbproj.GenerateResource.cache
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\obj\Debug\ProgramaFactura.vbproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\obj\Debug\ProgramaFactura.frmacercade.resources
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\obj\Debug\ProgramaFactura.frmnomina.resources
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\obj\Debug\ProgramaFactura.frmmenu.resources
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\obj\Debug\ProgramaFactura.LoginForm1.resources
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\obj\Debug\ProgramaFactura.SplashScreen1.resources
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\bin\Debug\ProgramaFactura.exe.config
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\bin\Debug\ProgramaFactura.exe
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\bin\Debug\ProgramaFactura.pdb
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\bin\Debug\ProgramaFactura.xml
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\obj\Debug\ProgramaFactura.exe
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\obj\Debug\ProgramaFactura.xml
+C:\Users\Beto\source\repos\NominaV1\ProgramaFactura\obj\Debug\ProgramaFactura.pdb
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\bin\Debug\ProgramaFactura.exe.config
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\bin\Debug\ProgramaFactura.exe
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\bin\Debug\ProgramaFactura.pdb
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\bin\Debug\ProgramaFactura.xml
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.vbprojAssemblyReference.cache
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.frmacercade.resources
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.LoginForm1.resources
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.frmmenu.resources
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.frmnomina.resources
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.Resources.resources
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.SplashScreen1.resources
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.vbproj.GenerateResource.cache
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.vbproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.exe
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.xml
+C:\Users\Beto\source\repos\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.pdb
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\bin\Debug\ProgramaFactura.exe.config
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\bin\Debug\ProgramaFactura.exe
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\bin\Debug\ProgramaFactura.pdb
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\bin\Debug\ProgramaFactura.xml
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.vbprojAssemblyReference.cache
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.frmacercade.resources
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.LoginForm1.resources
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.frmmenu.resources
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.frmnomina.resources
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.Resources.resources
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.SplashScreen1.resources
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.vbproj.GenerateResource.cache
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.vbproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.exe
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.xml
+C:\Users\Beto\Desktop\02 SENA 2020\00 ADSI 2067794\TRIMESTRE 2\03 NET\Evidencias\NominaV2\ProgramaFactura\obj\Debug\ProgramaFactura.pdb
